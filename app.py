@@ -60,7 +60,7 @@ def db_main():
 
 def receive():
    system = 'night.trader.system@gmail.com'
-   password = 'cndlgpvfgtisbttm'
+   password = 'password'
    server = 'imap.gmail.com'
 
    # connect to the server and go to its inbox
